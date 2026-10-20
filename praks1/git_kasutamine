@@ -1,2 +1,8 @@
 Git kasdautamise karjutus
 minu esimene git harjutus
+a) Remote seadistamine:
+a) Git remote add nimi github:address
+git remote add skriptimine git@github.com:kasutajanimi/reponimi.git
+
+b) git remote kontroll
+git remote -v
